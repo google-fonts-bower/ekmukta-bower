@@ -1,0 +1,17 @@
+{
+    "name": "ekmukta-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ekmukta-bower.git"
+    },
+    "description": "Ek Mukta font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
